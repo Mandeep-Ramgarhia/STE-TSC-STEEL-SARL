@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3695b537.css",
-    "main.js": "/static/js/main.33ea510b.js",
-    "static/js/453.104c882e.chunk.js": "/static/js/453.104c882e.chunk.js",
-    "static/media/elephant.jpg": "/static/media/elephant.8f6cbdc89cc1cfde5e60.jpg",
-    "static/media/root.jpg": "/static/media/root.02e955078b4950c85285.jpg",
-    "static/media/home.jpg": "/static/media/home.4e42ce774e417c3fa779.jpg",
-    "static/media/root-2.jpg": "/static/media/root-2.1d205f3e9b5cb24e0804.jpg",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.3695b537.css.map": "/static/css/main.3695b537.css.map",
-    "main.33ea510b.js.map": "/static/js/main.33ea510b.js.map",
-    "453.104c882e.chunk.js.map": "/static/js/453.104c882e.chunk.js.map"
+    "main.css": "/STE-TSC-STEEL-SARL/static/css/main.578ca2f3.css",
+    "main.js": "/STE-TSC-STEEL-SARL/static/js/main.c1ec52d1.js",
+    "static/js/453.104c882e.chunk.js": "/STE-TSC-STEEL-SARL/static/js/453.104c882e.chunk.js",
+    "static/media/elephant.jpg": "/STE-TSC-STEEL-SARL/static/media/elephant.8f6cbdc89cc1cfde5e60.jpg",
+    "static/media/root.jpg": "/STE-TSC-STEEL-SARL/static/media/root.02e955078b4950c85285.jpg",
+    "static/media/home.jpg": "/STE-TSC-STEEL-SARL/static/media/home.4e42ce774e417c3fa779.jpg",
+    "static/media/root-2.jpg": "/STE-TSC-STEEL-SARL/static/media/root-2.1d205f3e9b5cb24e0804.jpg",
+    "static/media/slick.svg": "/STE-TSC-STEEL-SARL/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/STE-TSC-STEEL-SARL/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/STE-TSC-STEEL-SARL/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/STE-TSC-STEEL-SARL/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/STE-TSC-STEEL-SARL/index.html",
+    "main.578ca2f3.css.map": "/STE-TSC-STEEL-SARL/static/css/main.578ca2f3.css.map",
+    "main.c1ec52d1.js.map": "/STE-TSC-STEEL-SARL/static/js/main.c1ec52d1.js.map",
+    "453.104c882e.chunk.js.map": "/STE-TSC-STEEL-SARL/static/js/453.104c882e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3695b537.css",
-    "static/js/main.33ea510b.js"
+    "static/css/main.578ca2f3.css",
+    "static/js/main.c1ec52d1.js"
   ]
 }
