@@ -1,0 +1,55 @@
+.benin-tech {
+  padding: 100px 30px;
+  background: linear-gradient(to right, #f1f5f9, #ffffff);
+  font-family: 'Poppins', sans-serif;
+}
+
+.benin-tech-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  max-width: 1200px;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.benin-tech-text {
+  flex: 1;
+}
+
+.benin-tech-text h2 {
+  font-size: 2.5rem;
+  color: #0f172a;
+  margin-bottom: 20px;
+}
+
+.benin-tech-text p {
+  font-size: 1.1rem;
+  color: #475569;
+  line-height: 1.8;
+}
+
+.benin-tech-image {
+  flex: 1;
+  text-align: center;
+}
+
+.benin-tech-image img {
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.1);
+  object-fit: cover;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .benin-tech-container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .benin-tech-text h2 {
+    font-size: 2rem;
+  }
+}

@@ -1,0 +1,66 @@
+.quality-section {
+  position: relative;
+  background: url('../../public/root-2.jpg') center/cover no-repeat;
+  padding: 120px 30px;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  overflow: hidden;
+}
+
+.quality-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(10, 25, 47, 0.75); /* Dark navy overlay */
+  backdrop-filter: blur(2px);
+  z-index: 1;
+}
+
+.quality-container {
+  position: relative;
+  z-index: 2;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.quality-title {
+  font-size: 2.6rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #38bdf8;
+}
+
+.quality-subtitle {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 25px;
+  color: #e0f2fe;
+}
+
+.quality-description {
+  font-size: 1.05rem;
+  color: #e2e8f0;
+  line-height: 1.8;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .quality-section {
+    padding: 80px 20px;
+  }
+
+  .quality-title {
+    font-size: 2rem;
+  }
+
+  .quality-subtitle {
+    font-size: 1.1rem;
+  }
+
+  .quality-description {
+    font-size: 1rem;
+  }
+}

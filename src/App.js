@@ -9,6 +9,15 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { BrowserRouter } from 'react-router-dom';
 import VisionMission from './Components/VisionMission';
 import OurManagement from './Components/OurManagement';
+import QualityImprovement from './Components/QualityImprovement';
+import LeadingEdge from './Components/LeadingEdge';
+import OurProducts from './Components/OurProducts';
+import ProductCards from './Components/ProductCards';
+import BeninTechnology from './Components/BeninTechnology';
+import HomeBanner from './Components/HomeBanner';
+import CompanyOverview from './Components/CompanyOverview';
+import LeaderSpeak from './Components/LeaderSpeak';
+import BusinessPresence from './Components/BusinessPresence';
 
 function Root(){
   return(
@@ -18,6 +27,10 @@ function Root(){
     <MiddleSection/>
     <VisionMission/>
     <OurManagement/>
+    <QualityImprovement/>
+    <LeadingEdge/>
+    <ProductCards/>
+    <BeninTechnology/>
     <Footer/>
     </>
   )
@@ -27,8 +40,12 @@ function Home(){
   return(
     <>
     <Navbar/>
-    <Hero/>
-    <HomeSection/>
+    <HomeBanner/>
+    <CompanyOverview/>
+    <VisionMission/>
+    <LeaderSpeak/>
+    <BusinessPresence/>
+    {/* <HomeSection/> */}
     <Footer/>
     </>
   )
